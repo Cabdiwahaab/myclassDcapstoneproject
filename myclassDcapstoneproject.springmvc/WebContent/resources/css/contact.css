@@ -1,0 +1,39 @@
+ 
+
+
+.body{
+	color:white!important;
+}
+
+
+
+.footer{
+    font-size: .80em;
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding-top: 10px;
+    clear: both;
+}
+
+.container{
+        margin-top: 6%;
+        margin-bottom: 5%;
+       
+    }
+
+@media (min-width: 576px) { 
+   }
+
+
+@media (min-width: 768px) { 
+
+ }
+
+@media (min-width: 992px) { 
+
+ }
+
+@media (min-width: 1200px) { 
+    
+} 
