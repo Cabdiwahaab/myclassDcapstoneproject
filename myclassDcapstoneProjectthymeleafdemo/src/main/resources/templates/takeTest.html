@@ -47,15 +47,17 @@
       <nav class="quiz-container" id ="quiz">
         <div class="quiz-header" style="padding-top: 50px;">
           	<h2 id="question" style="margin-left: 350px; margin-top: 5%;"> Welcome to the ClassD Permit Test Questions </h2>
-          	<div class="quiz-body" style="margin-left: 350px; margin-top: 4%;">
+          	<div class="quiz-body" style="margin-left: 350px; margin-top: 4%; ">
           		<div id="divQues">
 	        	</div>
 	        	<button id="enter" onclick="enterHandler(event)" style=" margin-top: 5%;">Enter</button>
 	        	<button id="next" onclick="nextHandler(event)" style="display: none; margin-top: 5%;">Next</button>
 	          	<button id="submit" onclick="submitHandler(event)" style="display: none; margin-top: 5%;">Submit</button>
         	</div>
-        	<div class="quiz-result" style="display: none;  margin-left: 350px; margin-top: 14%;">
-        		
+        	<div class="quiz-result" style="display: none;  margin-left: 350px; margin-top: 10%;">
+        		<div class="quiz-result-res">
+        		</div>
+        		<button onClick="reStartTest(event)" style="margin-left: 200px; margin-top: 10%; margin-top: 8%;">Restart Test</button>
         	</div>
         	
         </div>
