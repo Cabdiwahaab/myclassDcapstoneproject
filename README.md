@@ -68,3 +68,17 @@ credential user email and password.
 ### Landing Page
 ![Landing Page pdf](https://user-images.githubusercontent.com/58704924/185803757-ca81e2f4-f443-4e39-8347-72959031dbf7.jpg)
 
+### Contact Us Page
+![Contact Us](https://user-images.githubusercontent.com/58704924/185803789-933bb831-7071-4477-a088-6c395ceb3343.png)
+
+### Register Page
+![Register](https://user-images.githubusercontent.com/58704924/185803805-4a242f40-57b5-4617-ac96-2ce9e725dedf.png)
+
+### Log In Page
+![LogIn](https://user-images.githubusercontent.com/58704924/185803813-3c606de5-6f01-4eda-a103-76ec9282f92a.png)
+
+### Admin Page
+![Landing Page pdf](https://user-images.githubusercontent.com/58704924/185803847-325588bd-79dc-4a2b-9a8b-0b6cade4a0dd.jpg)
+
+### takeTest Page
+![takeTest](https://user-images.githubusercontent.com/58704924/185803856-4ce5ac03-7bb8-4ade-ba46-c460d99e4491.png)
