@@ -66,5 +66,5 @@ credential user email and password.
 
 ## WireFrames
 ### Landing Page
-![LogIn](https://user-images.githubusercontent.com/58704924/185803405-04c46b80-961d-467d-909e-a315507b70a6.png)
+![Landing Page pdf](https://user-images.githubusercontent.com/58704924/185803757-ca81e2f4-f443-4e39-8347-72959031dbf7.jpg)
 
