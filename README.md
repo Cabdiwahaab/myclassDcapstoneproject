@@ -57,8 +57,8 @@ system.
  Various functional modules that can be implemented by
 the system will be 
 ## Registration
-if user wants to benefit from Minnesota permit test  service  then user must
-create an account first. I save the user info to the database so that the user will not need to create account again except if user wants to create a account. User who did not do registertration can’t log in and access the test.
+if a user wants to benefit from our Minnesota permit test for class-D service then user requires to
+create an account first. I save the user info to the database so that the user won't need to create an account again except if user wants to create new a account. User who did not do registertration can’t log in and access the test.
 ## Login
 Users need login to the system by entering
 credential user email and password.
