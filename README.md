@@ -46,7 +46,7 @@ I explained the steps users need take to able to access to our test page.
 #### takeTest page.
 is where I have  the test questions. Users need to make A valid credential log in to access to this page and practice the test.
 #### Admin page 
-is where I control the users database after they create an account and I can update, delete and save users info in there. 
+Addmin is where to control update, delete and save users infor into the database. 
 
 ### Specific Requirements:
 Users must be able to read and understand Somali Language.
@@ -57,8 +57,8 @@ system.
  Various functional modules that can be implemented by
 the system will be 
 ## Registration
-if users want to access to the test then user must
-create an account first. I save the user info to the database so that the user will not need to create account again unless user forget the email and the password. User who did not register can’t log in.
+if user wants to benefit from Minnesota permit test  service  then user must
+create an account first. I save the user info to the database so that the user will not need to create account again except if user wants to create a account. User who did not do registertration can’t log in and access the test.
 ## Login
 Users need login to the system by entering
 credential user email and password.
